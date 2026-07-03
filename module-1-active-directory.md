@@ -39,6 +39,7 @@ The DNS was pointed to `127.0.0.1` so the server uses itself for DNS resolution,
 Installed the AD DS role through Server Manager using the Add Roles and Features wizard. This installs the binaries and tools required to run Active Directory but does not yet create the domain.
 
 ![AD DS Role Installed](./screenshots/module1-adds-role-installed.png)
+![AD DS Role Installed](./screenshots/module1-adds-role-installed1.png)
 
 ### 3. Promoted Server to Domain Controller
 
