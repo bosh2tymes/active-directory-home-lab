@@ -77,11 +77,13 @@ Created one security group per department and added users to their respective gr
 Simulated a user who forgot their password. Reset via right click → Reset Password with "User must change password at next logon" enforced.
 
 ![Password Reset](./screenshots/module2-password-reset.png)
+![Password Reset](./screenshots/module2-password-reset1.png)
 
 #### Account Disable — mdavis
 Simulated an employee departure. Disabled the account via right click → Disable Account. A down arrow icon appears on the user confirming the account is disabled.
 
 ![Account Disabled](./screenshots/module2-account-disabled.png)
+![Account Disabled](./screenshots/module2-account-disabled1.png)
 
 #### Account Unlock — jsmith
 Simulated a user locked out after too many failed login attempts. Located the Unlock Account checkbox under the user's Account tab in Properties.
